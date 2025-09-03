@@ -288,7 +288,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions or support:
 - 🐛 Open an issue on GitHub  
-- 📧 Email: your.email@domain.com
+- 📧 Email: mohammadsaim78622@gmail.com
 - 🐦 Twitter: @yourusername
 
 ---
